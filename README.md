@@ -1,3 +1,3 @@
-# project_final
+# Final Project in Mobile Dev
 
-A new Flutter project.
+A flutter project 
